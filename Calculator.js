@@ -1,3 +1,7 @@
+
+//Non-Button Element
+var answer = document.querySelector('#answer');
+
 //Buttons
 var btnOne = document.querySelector('#one');
 var btnTwo = document.querySelector('#two');
@@ -17,7 +21,60 @@ var btnSub = document.querySelector('#subtract');
 var btnTimes = document.querySelector('#times');
 var btnDivide = document.querySelector('#divide');
 
+
 //Button click
-buttonOne.addEventListener("click", function(){
+btnOne.addEventListener("click", function(){
 
 });
+btnTwo.addEventListener("click", function(){
+
+});
+btnThree.addEventListener("click", function(){
+
+});
+btnFour.addEventListener("click", function(){
+
+});
+btnFive.addEventListener("click", function(){
+
+});
+btnSix.addEventListener("click", function(){
+
+});
+btnSeven.addEventListener("click", function(){
+
+});
+btnEight.addEventListener("click", function(){
+
+});
+btnNine.addEventListener("click", function(){
+
+});
+btnZero.addEventListener("click", function(){
+
+});
+btnClear.addEventListener("click", function(){
+
+});
+btnEql.addEventListener("click", function(){
+
+});
+btnPnt.addEventListener("click", function(){
+
+});
+btnAdd.addEventListener("click", function(){
+
+});
+btnSub.addEventListener("click", function(){
+
+});
+btnTimes.addEventListener("click", function(){
+
+});
+btnDivide.addEventListener("click", function(){
+
+});
+
+
+//Span Content
+answer.textContent
