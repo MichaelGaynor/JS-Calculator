@@ -15,8 +15,8 @@ return (Number(numOne.value) + Number(numTwo.value))
 
 //Display Answer
 var showMe = function(){
-  solution = mathIt();
-  answer.textContent = solution;
+  answer.textContent = mathIt();
+  // answer.textContent = solution;
 };
 
 //Button Click
